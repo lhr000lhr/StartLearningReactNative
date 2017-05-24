@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "icon": "HomeIcon0",
+            "title": "单肩包"
+        },
+        {
+            "icon": "HomeIcon1",
+            "title": "链条包"
+        },
+        {
+            "icon": "HomeIcon2",
+            "title": "钱包"
+        },
+        {
+            "icon": "HomeIcon3",
+            "title": "手提包"
+        },
+        {
+            "icon": "HomeIcon4",
+            "title": "双肩包"
+        },
+         {
+            "icon": "HomeIcon5",
+            "title": "斜挎包"
+        }
+    ]
+}
